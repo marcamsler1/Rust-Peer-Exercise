@@ -23,6 +23,17 @@ cargo --version
 
 ## Core Rust Concepts
 
+Each of the examples below can be run by cloning this repo and running this command:
+```bash
+cargo run --example **example file name**
+```
+
+So to run e.g. the borrowing example, you can run
+```bash
+cargo run --example borrowing_example
+```
+
+
 ### 1. Ownership Example
 Every value in Rust has exactly one owner. When that owner goes out of scope, the value is freed.
 
