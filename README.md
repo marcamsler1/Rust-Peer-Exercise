@@ -161,7 +161,8 @@ Goodbye!
 ---
 
 
-## 📫 Author
+## Author
 **Marc Amsler**  
 University of Zurich  
-📧 your.email@uzh.ch
+marctheodorfelix.amsler@uzh.ch
+
