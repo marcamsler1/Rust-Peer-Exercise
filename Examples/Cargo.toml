@@ -4,24 +4,3 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
-
-[[example]]
-name = "ownership_example"
-path = "examples/ownership_example.rs"
-
-[[example]]
-name = "borrowing_example"
-path = "examples/borrowing_example.rs"
-
-[[example]]
-name = "mutable_borrowing_example"
-path = "examples/mutable_borrowing_example.rs"
-
-[[example]]
-name = "pattern_matching_example"
-path = "examples/pattern_matching_example.rs"
-
-[[example]]
-name = "cli_example"
-path = "examples/cli_example.rs"
-
