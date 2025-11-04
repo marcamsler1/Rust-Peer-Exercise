@@ -163,6 +163,5 @@ Goodbye!
 
 ## Author
 **Marc Amsler**  
-University of Zurich  
 marctheodorfelix.amsler@uzh.ch
 
